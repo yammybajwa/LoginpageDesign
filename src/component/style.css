@@ -1,0 +1,75 @@
+
+.card-style {
+  max-width: 400px;
+  width: 100%;
+  background-color: #fff;
+  padding: 25px 30px;
+  border-radius: 5px;
+  box-shadow: 0 5px 10px rgba(0,0,0,0.15);
+}
+.title {
+  text-align: center;
+  font-weight: bolder;
+}
+.p-1 {
+  margin-top: 75px;
+  margin-left: 20px;
+}
+.input {
+  width: 80%;
+  display: flex;
+  margin-left: 20px;
+  outline: none;
+  border: none;
+  border-bottom: 1px solid black;
+  transition: all 0.3s ease;
+}
+.input:focus{
+  border-color: #dd4b39;
+}
+
+.p-2 {
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.Forgot {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  margin-left: 60%;
+  margin-top: 5%;
+}
+.Btn {
+  display: block;
+  background: linear-gradient(135deg, #71b7e6, #9b59b6);
+  outline: none;
+  border: none;
+  cursor: pointer;
+  border-radius: 50px;
+  width: 70%;
+  margin-top: 40px;
+  margin-left: 15%;
+  padding: 10px;
+}
+
+.f-icon {
+  
+  display: inline-block;
+  margin-top: 10%;
+  border-radius: 50px;
+  color: #1877f2;
+}
+.t-icon {
+  color: #1da1f2;
+  border-radius: 50px;
+}
+.g-icon {
+  color: #dd4b39;
+}
+.NewUser {
+  text-decoration: none;
+  color: black;
+  display: inline-block;
+  margin-left: 35%;
+  margin-top: 10%;
+}
